@@ -1,5 +1,5 @@
 
-<img src="./docs/assets/Logo Masjid Nurul jibal-03.jpg"  alt="Logo Remaja Masjid Nurul Jibal" width="46px" height="46px"/>
+<img src="./docs/assets/Logo Masjid Nurul jibal-03.jpg"  alt="Logo Remaja Masjid Nurul Jibal" width="64px" height="64px"/>
 
 # REMAJA MASJID NURUL JIBAL
 
